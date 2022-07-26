@@ -12,6 +12,8 @@
 Adafruit_MPU6050 mpu;
 
 // REPLACE WITH RECEIVER MAC Address
+// Add your device mac address 
+// code to find mac address Wireless-Game-Controller/MAC/device_mac.ino
 uint8_t broadcastAddress1[] = {0x58 ,0xBF ,0x25 ,0xDA ,0x4A ,0x0D};
 
 // Structure example to send data
